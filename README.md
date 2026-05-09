@@ -75,6 +75,7 @@
 | Project | Description | Status | Stack |
 | :--- | :--- | :--- | :--- |
 | **WariCheck** | Central hub for Ivorian e-commerce (Scraping & Mobile). | 🧪 Alpha Testing | React Native, Python, Flask, BS4 |
+| **Polyglot** | Translation Mobile App. | 🧪 Alpha Testing | React Native |
 | **Train Game** | Optimized mobile train simulator (Clean BG assets). | 🏗️ In Progress | Godot, GDScript |
 | **ECE Projects** | Engineering and algorithm school labs. | 📚 Academic | C, SQL, Web Stack |
 

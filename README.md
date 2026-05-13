@@ -19,7 +19,6 @@
         <li>🎓 <strong>Education:</strong> Freshman at <strong>ECE Paris</strong> (Engineering School).</li>
         <li>🚀 <strong>Main Project:</strong> Lead Developer on <strong>WariCheck</strong>, the hub for Ivorian e-commerce.</li>
         <li>🎮 <strong>Side Quest:</strong> Building a mobile train simulator in Godot.</li>
-        <li>⚡ <strong>Philosophy:</strong> I hate "Vibe Coding" and AI — They will replace us !.</li>
       </ul>
     </td>
   </tr>

@@ -3,6 +3,7 @@
   <p><i>"Never stop learning"</i></p> 
   <a href="mailto:leviyohan123@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/yohan-konan-5b7b41385/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+   <a href="https://portfolio-fawn-beta-34.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 <br />
